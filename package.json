@@ -1,0 +1,5 @@
+{
+  "name": "--databse=posgresql",
+  "private": true,
+  "dependencies": {}
+}
